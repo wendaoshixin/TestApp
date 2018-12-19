@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+
+    <string name="radius_format">Radius: %1$d</string>
+    <string name="peek_format">Peek: %1$d</string>
+
+    <string name="gravity">Gravity</string>
+    <string name="orientation">Orientation</string>
+    <string name="rotate">Rotate</string>
+    <string name="controls">Controls</string>
+</resources>
