@@ -8,8 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android-networking" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/commonlib" />
             <option value="$PROJECT_DIR$/hotfix" />
+            <option value="$PROJECT_DIR$/jcenterlib" />
+            <option value="$PROJECT_DIR$/ndkkeeplive" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

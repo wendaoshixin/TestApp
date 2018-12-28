@@ -1,1 +1,6 @@
-include ':app', ':hotfix'
+include ':app'
+include ':hotfix'
+include ':android-networking'
+include ':jcenterlib'
+include  ':ndkkeeplive'
+include  ':commonlib'

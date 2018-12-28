@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="svn" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-networking" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/commonlib" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/jcenterlib" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/ndkkeeplive" vcs="svn" />
   </component>
 </project>

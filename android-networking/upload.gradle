@@ -18,8 +18,8 @@
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: "com.jfrog.bintray"
 
-def siteUrl = 'https://github.com/amitshekhariitbhu/Fast-Android-Networking'
-def gitUrl = 'https://github.com/amitshekhariitbhu/Fast-Android-Networking.git'
+def siteUrl = 'https://github.com/wendaoshixin/TestApp'
+def gitUrl = 'https://github.com/wendaoshixin/TestApp.git'
 
 group = "com.amitshekhar.android"
 version = '1.0.2'
@@ -43,9 +43,9 @@ install {
 
             developers {
                 developer {
-                    id 'amitshekhariitbhu'
+                    id 'wendaoshixin'
                     name 'Amit Shekhar'
-                    email 'amit.shekhar.iitbhu@gmail.com'
+                    email '272888468@qq.com'
                 }
             }
 
